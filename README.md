@@ -25,11 +25,10 @@
 
 🎓 **Computer Science Engineering Student** @ ENSA Berrechid
 
-💼 **Software Engineer** with passion for building scalable solutions
+💼 **Software & DevOps Engineer** with passion for building scalable solutions
 
 🚀 Specialized in **Microservices**, **DevOps**, and **AI-driven applications**
 
-🌟 Working on **Healthcare Platforms** & **AI Homework Assistants**
 
 🎯 Exploring **Generative AI**, **Cloud Architecture**, and **Real-time Systems**
 
@@ -107,11 +106,11 @@
 
 | Certification | Issuer | Year |
 |--------------|--------|------|
-| 🥇 **Oracle Cloud Infrastructure DevOps Professional** | Oracle | 2024 |
+| 🥇 **Oracle Cloud Infrastructure DevOps Professional** | Oracle | 2025 |
 | ☕ **Oracle Certified Professional: Java SE 17 Developer** | Oracle | 2024 |
-| ☁️ **AWS Certified Cloud Practitioner** | AWS | 2024 |
-| 🤖 **OCI Generative AI Professional** | Oracle | 2024 |
-| 🗄️ **Oracle Database SQL Associate** | Oracle | 2024 |
+| ☁️ **AWS Certified Cloud Practitioner** | AWS | 2025 |
+| 🤖 **OCI Generative AI Professional** | Oracle | 2025 |
+| 🗄️ **Oracle Database SQL Associate** | Oracle | 2025 |
 | 🐍 **Python Programmer Bootcamp** | 365 Data Science | 2024 |
 
 </div>
