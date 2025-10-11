@@ -243,10 +243,10 @@ const oussama = {
     currentFocus: "AI Homework Assistant & Healthcare Platform",
     learning: ["Generative AI", "Advanced DevOps", "Microservices Architecture"],
     technologies: {
-        frontend: ["Next.js", "React Native", "Three.js"],
+        frontend: ["Next.js", "React Native", "React js"],
         backend: ["Spring Boot", "Node.js", "Microservices"],
         devops: ["Kubernetes", "ArgoCD", "GitLab CI/CD", "Terraform"],
-        ai: ["Generative AI", "RNN", "TensorFlow"],
+        ai: ["Generative AI", "TensorFlow"],
         databases: ["PostgreSQL", "MongoDB", "MySQL"]
     },
     certifications: ["Oracle DevOps", "AWS Cloud", "OCI Gen AI", "Java SE 17"],
