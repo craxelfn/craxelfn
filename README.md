@@ -224,9 +224,9 @@
 ```mermaid
 graph LR
     A[Marketing Confort] -->|Jun-Sept 2025| B[Software Engineer/DevOps Intern]
-    C[2Peerfect] -->|Sept-Oct 2024| D[Full Stack Developer]
-    E[Wib Day] -->|Aug 2024| F[Full Stack Developer]
-    G[Royal Air Maroc] -->|Jul 2024| H[Full Stack Developer]
+    C[2Peerfect] -->|Sept-Oct 2024| D[Full Stack Developer Intern ]
+    E[Wib Day] -->|Aug 2024| F[Full Stack Developer Intern]
+    G[Royal Air Maroc] -->|Jul 2024| H[Full Stack Developer Intern]
     
     style B fill:#667eea
     style D fill:#764ba2
