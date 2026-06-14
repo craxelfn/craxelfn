@@ -108,7 +108,7 @@
 | ☁️ **AWS Certified Cloud Practitioner** | AWS | 2025 |
 | 🤖 **OCI Generative AI Professional** | Oracle | 2025 |
 | 🗄️ **Oracle Database SQL Associate** | Oracle | 2025 |
-| 🐍 **Python Programmer Bootcamp** | 365 Data Science | 2024 |
+| 🐍 **Python Programmer Bootcamp** | 365 Data Science | 2025 |
 
 </div>
 
