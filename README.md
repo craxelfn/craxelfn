@@ -94,41 +94,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💼 Experience
-
-<table>
-<tr>
-<td>
-
-**🔴 Oracle** — *Forward Deployed Engineer Intern (FDE)* &nbsp;&nbsp;`Apr 2026 – Present`
-
-Partnering with enterprise customers to design, deploy, and operationalize data & AI solutions on **Oracle AI Data Platform**. Building production-grade data pipelines (Medallion architecture, Delta Lake), conversational/agentic automation for analytics workflows, and migration tooling — all the way to governed analytics delivery in **Oracle Analytics Cloud**.
-
-</td>
-</tr>
-<tr>
-<td>
-
-**🟣 Marketing Confort** — *Software Engineer / DevOps Intern* &nbsp;&nbsp;`Jun 2025 – Sept 2025`
-
-Built an AI homework assistant (React Native + Next.js) on a Spring Boot microservices backend, with full CI/CD via GitLab CI, Docker, Kubernetes, and ArgoCD.
-
-</td>
-</tr>
-<tr>
-<td>
-
-**🔵 Earlier internships** &nbsp;&nbsp;`2024`
-
-Full Stack Developer Intern @ **2Peerfect** (3D web, Three.js) · **Wib Day** (Laravel blogging platform) · **Royal Air Maroc** (customer-service web app, React/Node.js)
-
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🏆 Certifications
+## 🏆 Certifications & Achievements
 
 <div align="center">
 
@@ -221,7 +187,7 @@ Full Stack Developer Intern @ **2Peerfect** (3D web, Three.js) · **Wib Day** (L
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=craxelfn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=craxelfn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=craxelfn&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </div>
 
@@ -235,7 +201,38 @@ Full Stack Developer Intern @ **2Peerfect** (3D web, Three.js) · **Wib Day** (L
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🌟 Currently
+## 🏅 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=craxelfn&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 💼 Experience Highlights
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[Oracle] -->|Apr 2026-Present| B[Forward Deployed Engineer Intern]
+    C[Marketing Confort] -->|Jun-Sept 2025| D[Software Engineer/DevOps Intern]
+    E[2Peerfect] -->|Sept-Oct 2024| F[Full Stack Developer Intern]
+    G[Wib Day] -->|Aug 2024| H[Full Stack Developer Intern]
+    I[Royal Air Maroc] -->|Jul 2024| J[Full Stack Developer Intern]
+
+    style B fill:#667eea
+    style D fill:#764ba2
+    style F fill:#667eea
+    style H fill:#764ba2
+    style J fill:#667eea
+```
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🌟 What I'm Working On
 
 ```python
 class Oussama:
@@ -273,7 +270,7 @@ I'm always excited to collaborate on data engineering, AI, and cloud projects!
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=craxelfn&label=Profile%20Views&color=667eea&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=craxelfn&label=Followers&color=667eea&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/craxelfn?label=Followers&style=for-the-badge&color=764ba2&logo=github)
 
 </div>
