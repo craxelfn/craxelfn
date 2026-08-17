@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Oussama%20Lakrafi&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Forward%20Deployed%20Engineer%20|%20Data%20%26%20AI%20|%20DevOps&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Oussama%20Lakrafi&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Forward%20Deployed%20Engineer%20%7C%20Data%20Engineering%20%7C%20AI&descAlignY=55&descAlign=50" width="100%"/>
 </div>
 
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=700&lines=Forward+Deployed+Engineer+%40+Oracle;AI-Driven+Data+Engineering;Agentic+AI+%26+Data+Platforms;DevOps+%26+Cloud+Architecture)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=700&lines=Forward+Deployed+Engineer+%40+Oracle;AI-Driven+Data+Engineering;Agentic+AI+and+Data+Platforms;DevOps+and+Cloud+Architecture)](https://git.io/typing-svg)
 
 </div>
 
